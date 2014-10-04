@@ -1,0 +1,79 @@
+body{
+background:#34373c;
+}
+header h2 {
+    display: block;
+    color: #fff;
+    width: 100%;
+    margin: 25 auto;
+    height: 35px;
+    font-size: 35px;
+   text-align: center; 
+    line-height: 35px;
+           
+}
+form input[type=password]{
+width: 90%;
+align-self: center;
+height: 35px;
+border-radius: 5px;
+background: #1d1e22;
+color: #ddd;
+margin-bottom: 10px;
+    margin-top: 20px;
+}
+form input[type=submit]{
+width: 90%;
+height: 45px;
+border: 1px solid #ccc;
+background: #1d1e22;
+font-size: 25px;
+color: #ddd;
+line-height: 45px;
+text-align: center;
+}
+
+.form {
+    width: 100%;
+    margin-top: 50px;
+    height: 300px;
+    min-height:90px; 
+    background:#34373c;
+    text-align: center;
+}
+
+ul{
+list-style: none;
+}
+ul>li>a {
+display: block;
+background: #47484b;
+width: 100%;
+clear: both;
+height: 35px;
+text-align: center;
+line-height: 35px;
+color: #ccc;
+font-size: 32px;
+text-decoration: none;
+cursor: pointer;
+border-bottom: 1px solid #ccc;
+margin-bottom: 10px;
+}
+a.dir{
+display: block;
+background: #47484b;
+width: 100%;
+clear: both;
+height: auto;
+text-align: center;
+line-height: 15px;
+color: #ccc;
+font-size: 12px;
+text-decoration: none;
+cursor: pointer;
+border-bottom: 1px solid #ccc;
+margin-bottom: 10px;
+}
+
+
