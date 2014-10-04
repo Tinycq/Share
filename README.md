@@ -14,7 +14,7 @@
 
 ##使用方法
 
-1.windows用户可以安装Wampsever （mac用户考虑mamp之类的服务器环境一键安装包)，按照提示设置好安装路径。
+1.windows用户可以安装[Wampsever](http://sourceforge.net/projects/wampserver/ "wamp下载地址") （mac用户考虑mamp之类的服务器环境一键安装包)，按照提示设置好安装路径。
 2.将源代码下载后复制到wamp/www/目录下，访问http://127.0.0.1 可以打开wamp环境并且有share链接则恭喜你，基本安装已经完成。
 
 -----
